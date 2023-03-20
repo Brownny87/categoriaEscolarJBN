@@ -1,0 +1,15 @@
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\bin\Debug\Web_tarea_2_categoria_escolar.exe.config
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\bin\Debug\Web_tarea_2_categoria_escolar.exe
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\bin\Debug\Web_tarea_2_categoria_escolar.pdb
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.csproj.AssemblyReference.cache
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.CatEscolar.resources
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.convMon.resources
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.Properties.Resources.resources
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.csproj.GenerateResource.cache
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.exe
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.pdb
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.calc.resources
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.convTemp.resources
+D:\Documentos\Estudio\Tecnologia desarrollo de Software\23. LENGUAJES DE PROGRAMACIÓN\Web_tarea_2_categoria_escolar\obj\Debug\Web_tarea_2_categoria_escolar.calcDias.resources
